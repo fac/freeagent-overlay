@@ -1,0 +1,9 @@
+#FreeAgent SmartOS Overlay.
+
+
+This repo is designed to be checked out into and existing smartos-live checkout under the overlays directory.
+
+You then need to edit the configure config file to place this overlay first in the list of overlays.
+
+Alternatively copy the sample file freeagent.configure.smartos to smartos-live/configure.smartos which is already configured.
+
