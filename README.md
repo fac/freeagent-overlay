@@ -1,5 +1,8 @@
 # FreeAgent SmartOS Overlay.
 
+# NO LONGER USED #
+
+
 ## How to use
 
 This repo is designed to be checked out into and existing smartos-live checkout under the overlays directory.
